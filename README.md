@@ -13,9 +13,10 @@ This is a simple web application for an upcoming Egyptian party event. The websi
 ## Technologies Used
 
 - HTML
-- CSS (Bootstrap for responsive design)
-- JavaScript (Date Object for countdown feature)
-- jQuery (for side menu functionality)
+- CSS 
+- Bootstrap
+- JavaScript 
+- jQuery
 
 ## Preview
 
@@ -26,4 +27,4 @@ This is a simple web application for an upcoming Egyptian party event. The websi
 
 ## Live Demo
 
-Check out the live demo [here](https://mohammed-fawzzi.github.io/EgyptianParty/).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Egyptian-Party/).
